@@ -7,4 +7,4 @@ The project lasted 15 weeks, during which:
 - Week 11 - 15: The electronic schematic with its connections and the final programming was made
 
 ## Weeks 1 - 5
-My 
+My contributions during this week was the static analysis calculations. The idea was that two members made this to compare results and select the best approach. I was one of the two members that made the calculations, and while at the end we decided to use 
