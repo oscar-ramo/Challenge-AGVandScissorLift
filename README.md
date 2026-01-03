@@ -18,10 +18,12 @@ My contributions focused on static analysis calculations. Two members performed 
 ![Equations used, variables, and constants](./Static_Analysis/Digital_2.jpeg)
 ![Matrix used and Net Force per joint](./Static_Analysis/Digital_3.jpeg)
 
-### Results
-- Net forces per link calculated.
-- Shear stress applied to determine required cross-sectional area.
-- Minimum link height estimated assuming rectangular cylinder geometry.
+### Preliminary Results (Under Review)
+- Internal forces per link were estimated using the matrix-based solution.
+- A preliminary stress-based sizing approach was explored using shear stress assumptions.
+- These results were used for qualitative comparison between different modeling approaches.
+
+The following calculations correspond to an initial sizing exploration and do not represent final design dimensions.
 
 ![Links 2, 3, and 4 minimum height calculation](./Static_Analysis/Final_1.jpeg)
 ![Links 5, 6, and 7 minimum height calculation](./Static_Analysis/Final_2.jpeg)
