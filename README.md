@@ -10,21 +10,21 @@ The project lasted 15 weeks:
 My contributions focused on static analysis calculations. Two members performed independent analyses to compare results. While at the end we decided to use the other teammate's approach, here I present my formulation.
 
 ### Force and Moment Diagrams
-![Forces and momtums acting per link](./Static Analysis/Whiteboard 1.jpeg)
-![Equations to relate the variables, stress used, and Minimum Case analysis](./Static Analysis/Whiteboard 2.jpeg)
+![Forces and momtums acting per link](./Static_Analysis/Whiteboard_1.jpeg)
+![Equations to relate the variables, stress used, and Minimum Case analysis](./Static_Analysis/Whiteboard_2.jpeg)
 
 ### Digitalized Diagrams and Matrix Formulation
-![Force diagrams per link](./Static Analysis/Digital 1.jpeg)
-![Equations used, variables, and constants](./Static Analysis/Digital 2.jpeg)
-![Matrix used and Net Force per joint](./Static Analysis/Digital 3.jpeg)
+![Force diagrams per link](./Static_Analysis/Digital_1.jpeg)
+![Equations used, variables, and constants](./Static_Analysis/Digital_2.jpeg)
+![Matrix used and Net Force per joint](./Static_Analysis/Digital_3.jpeg)
 
 ### Results
 - Net forces per link calculated.
 - Shear stress applied to determine required cross-sectional area.
 - Minimum link height estimated assuming rectangular cylinder geometry.
 
-![Links 2, 3, and 4 minimum height calculation](./Static Analysis/Final 1.jpeg)
-![Links 5, 6, and 7 minimum height calculation](./Static Analysis/Final 2.jpeg)
+![Links 2, 3, and 4 minimum height calculation](./Static_Analysis/Final_1.jpeg)
+![Links 5, 6, and 7 minimum height calculation](./Static_Analysis/Final_2.jpeg)
 
 ### Corrections and Lessons Learned
 
