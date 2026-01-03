@@ -51,6 +51,7 @@ The manufacturing methods we applied during the course were:
 - **Sawing:** Mainly for the Scissor Lift, cutting pieces for the body. 
 ![Sawing Example](Manufacturing_Photos/Sawing.jpeg)
 - **Sheet Metal Working:** Mainly for the AGV.
+
 ![Sheet Metalworking Example](Manufacturing_Photos/SheetMetalworking.jpeg)
 - **Drilling:** Used in both systems to make holes for screws and rivets.
 ![Drilling Example](Manufacturing_Photos/Drilling.jpeg)
