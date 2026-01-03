@@ -55,7 +55,7 @@ The manufacturing methods we applied during the course were:
 - **Drilling:** Used in both systems to make holes for screws and rivets.
 ![Drilling Example](Manufacturing_Photos/Drilling.jpeg)
 - **Welding:** Mainly in the Scissor Lift, to join the body pieces together.
-[Welding Video](Manufacturing_Photos/Welding.mp4)
+![Welding Example](Manufacturing_Photos/Welding.jpg)
 - **Milling:** Used in the Scissor Lift, enabling lifting and tilting.
 ![Milling Example 1](Manufacturing_Photos/Milling.jpeg)
 ![Milling Example 2](Manufacturing_Photos/Milling_2.jpeg)
@@ -71,8 +71,8 @@ The static analysis helped determine the minimum and optimal dimensions for the 
 
 ### Corrections and Lessons Learned 
 - **Overchecking dimensions:** 
-  - Due to lack of manufacturing experience, we assumed it would be easy to achieve exact dimensions to avoid material waste. In practice, it was time‑consuming and difficult, leading to broken pieces and rework. 
-	- It was also challenging to find already manufactured parts (like bearings) matching our calculated sizes. We learned that using **standard components** is often more practical and reliable.
+  - Due to lack of manufacturing experience, we assumed it would be easy to achieve exact dimensions to avoid material waste. In practice, it was time-consuming and difficult, resulting in broken pieces and rework. 
+	- It was also challenging to find already-manufactured parts (like bearings) matching our calculated sizes. We learned that using **standard components** is often more practical and reliable.
 
 ---
 
