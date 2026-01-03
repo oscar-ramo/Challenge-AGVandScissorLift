@@ -31,18 +31,18 @@ The following calculations correspond to an initial sizing exploration and do no
 ### Corrections and Lessons Learned
 
 - **Matrix Formatulation**:
-- *Initial issue:* known loads and unknown forces were not consistently separated in the equilibrium matrix.
-- *Correction implemented:* reformulated the system by isolating unknowns in the coefficient matrix (A) and known loads in the load vector (b).
-- *Engineering lesson:* accurate separation of known and unknown terms is critical in matrix-based static models.
+  - *Initial issue:* known loads and unknown forces were not consistently separated in the equilibrium matrix.
+  - *Correction implemented:* reformulated the system by isolating unknowns in the coefficient matrix (A) and known loads in the load vector (b).
+  - *Engineering lesson:* accurate separation of known and unknown terms is critical in matrix-based static models.
 
 - **Stress Evaluation**
-- *Initial limitation:* Link sizing was based solely on shear stress assumptions.
-- *Planned refinement:** extend the stress analysis to include additional failure modes relevant to scissor lift mechanisms:
-- *Buckling:* instability of slender members under compressive loads.
-- *Bearing:* localized crushing at pin and plate interfaces.
-- *Yielding:* material yielding under axial and combined stresses.
-- *Fatigue:* potential crack initiation under repeated load cycles.
-- *Engineering lesson:* mechanical design requires evaluating multiple failure modes to ensure structural safety and reliability.
+  - *Initial limitation:* Link sizing was based solely on shear stress assumptions.
+  - *Planned refinement:** extend the stress analysis to include additional failure modes relevant to scissor lift mechanisms:
+	- *Buckling:* instability of slender members under compressive loads.
+	- *Bearing:* localized crushing at pin and plate interfaces.
+	- *Yielding:* material yielding under axial and combined stresses.
+	- *Fatigue:* potential crack initiation under repeated load cycles.
+  - *Engineering lesson:* mechanical design requires evaluating multiple failure modes to ensure structural safety and reliability.
 
 ---
 
@@ -72,8 +72,8 @@ The static analysis helped determine the minimum and optimal dimensions for the 
 
 ### Corrections and Lessons Learned 
 - **Overchecking dimensions:** 
-  - Due to lack of manufacturing experience, we assumed it would be easy to achieve exact dimensions to avoid material waste. In practice, it was time-consuming and difficult, resulting in broken pieces and rework. 
-	- It was also challenging to find already-manufactured parts (like bearings) matching our calculated sizes. We learned that using **standard components** is often more practical and reliable.
+  - Due to lack of manufacturing experience, we assumed it would be easy to achieve exact dimensions to avoid material waste. In practice, it was time-consuming and difficult, resulting in broken pieces and rework.
+  - It was also challenging to find already-manufactured parts (like bearings) matching our calculated sizes. We learned that using **standard components** is often more practical and reliable.
 
 ---
 
