@@ -34,7 +34,7 @@ The following calculations correspond to an initial sizing exploration and do no
 - **Correction implemented:** reformulated the system by isolating unknowns in the coefficient matrix (A) and known loads in the load vector (b).
 - **Engineering lesson:** accurate separation of known and unknown terms is critical in matrix-based static models.
 
-- **Initial limitation (stress evaluation):** link sizing was based solely on shear stress assumptions.
+- **Initial limitation (stress evaluation):** Link sizing was based solely on shear stress assumptions.
 - **Planned refinement:** extend the stress analysis to include additional failure modes relevant to scissor lift mechanisms:
   - **Buckling:** instability of slender members under compressive loads.
   - **Bearing:** localized crushing at pin and plate interfaces.
@@ -44,7 +44,13 @@ The following calculations correspond to an initial sizing exploration and do no
 
 
 ## Weeks 6–10: CAD and Manufacturing
-*(Content to be added)*
+The Manufacturing methods we saw during the course were:
+- Sawing: Mainly with the Scissor Lift, cutting pieces, working as the body.
+- Sheet Metal Working: Mainly with the AGV.
+- Drilling: In both, to make the holes for the screws and rivets.
+- Welding: Mainly in the Scissor Lift, to paste the body pieces together.
+- Milling: Used in the Scissor Lift, for it to lift or tilt.
+- Lathe: With the Scissor lift, we try to make the component size just as in the calculations. Later, we realized that it was better to buy standard measurements.
 
 ## Weeks 11–15: Electronics and Programming (Under Refinement)
 *(Content to be added)*
