@@ -10,15 +10,25 @@ The project lasted 15 weeks:
 
 ## Repository Structure
 ├── Programming/
+
 │   ├── AGV_State_Machine/         → AGV state machine logic
+
 │   ├── ScissorLift_StateMachine/  → Scissor Lift state machine logic
+
 │   └── Tests/
+
 │       ├── AGV_tests/           → Individual AGV component tests
+
 │       └── Scissor_Lift_tests/  → Individual Scissor Lift component tests
+
 ├── Static_Analysis/             → Force calculations and dimension estimations
+
 ├── Manufacturing_Photos/        → Visual documentation of fabrication process
+
 ├── AGV_SL - Final Report.pdf    → Final technical report
+
 ├── LICENSE
+
 └── README.md
 
 ---
