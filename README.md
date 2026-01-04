@@ -109,11 +109,8 @@ The static analysis helped determine the minimum and optimal dimensions for the 
 
 During the final weeks of the project, I was responsible for coding the full programming of both the AGV and the Scissor Lift. This was because I was the only team member with prior experience in the C language from another project. Meanwhile, my teammates focused on the electronics design, schematics, and wiring of both subsystems.
 
-### AGV State Machine
-*(Add AGV diagram here)*
-
-### Scissor Lift State Machine
-*(Add Scissor Lift diagram here)*
+### AGV and Scissor Lift Flow Diagram
+![AGV and Scissor Lift Flow Chart](Programming/Flow_Diagram_4thSemester.jpeg)
 
 Before writing the final state machine code, I first created diagrams of the professor-provided libraries to fully understand their functionality. Then, I developed **component-level test programs** for both the AGV and the Scissor Lift (available in the `Tests` folder). Finally, I implemented the complete state machine logic for each subsystem (available in their respective folders).
 
