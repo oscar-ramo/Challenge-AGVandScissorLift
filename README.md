@@ -6,6 +6,8 @@ The project lasted 15 weeks:
 - Weeks 6–10: CAD design and manufacturing of the Scissor Lift and AGV.
 - Weeks 11–15: Electronics schematic, connections, and programming.
 
+> **Note:** For a complete review of the whole Challenge, please review the document `AGV-SL Final Report` document, also included in this Repo.
+
 ---
 
 ## Repository Structure
