@@ -118,7 +118,16 @@ Before writing the final state machine code, I first created diagrams of the pro
 
 ### Results
 Although the final integration of the AGV and Scissor Lift did not succeed, I documented and attached videos of the individual component tests. These demonstrate that each subsystem worked correctly in isolation.  
-*(Attach videos of the component tests here)*
+
+<video controls width="250">
+    <source src="Programming/ScissorLift_Video1" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
+</video>
+
+<video controls width="250">
+    <source src="Programming/ScissorLift_Video2" type="video/mp4">
+    Tu navegador no soporta la etiqueta de video.
+</video>
 
 ### Lessons Learned
 
